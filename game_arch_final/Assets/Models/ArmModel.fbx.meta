@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: c85ffcb69d6357d4497740f55afb5a26
+timeCreated: 1518037356
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArmModel
+    100004: ButtonModel
+    100006: ClawBase
+    100008: leftClaw
+    100010: leftClawBase
+    100012: polySurface8
+    100014: pSphere42
+    100016: pSphere42 1
+    100018: rightClaw
+    100020: rightClaw_pSphere42_pSphere42
+    100022: rightClawBase
+    100024: transform1
+    100026: transform2
+    100028: transform3
+    100030: transform4
+    100032: transform5
+    100034: transform6
+    100036: transform7
+    100038: armBase
+    100040: bottom1
+    100042: leftClawBack
+    100044: leftClawFront
+    100046: rightClawBack
+    100048: rightClawFront
+    100050: rotateClaw
+    400000: //RootNode
+    400002: ArmModel
+    400004: ButtonModel
+    400006: ClawBase
+    400008: leftClaw
+    400010: leftClawBase
+    400012: polySurface8
+    400014: pSphere42
+    400016: pSphere42 1
+    400018: rightClaw
+    400020: rightClaw_pSphere42_pSphere42
+    400022: rightClawBase
+    400024: transform1
+    400026: transform2
+    400028: transform3
+    400030: transform4
+    400032: transform5
+    400034: transform6
+    400036: transform7
+    400038: armBase
+    400040: bottom1
+    400042: leftClawBack
+    400044: leftClawFront
+    400046: rightClawBack
+    400048: rightClawFront
+    400050: rotateClaw
+    2000000: bottom1
+    2100000: Claw2
+    2100002: Nodes
+    2100004: Screws5
+    2100006: Arm2
+    2100008: Arm
+    2100010: Button2
+    2100012: Button
+    2100014: Claw1
+    2100016: Claw4
+    2100018: Screws2
+    2100020: Claw3
+    2100022: Screws1
+    2100024: Screws4
+    2100026: Screws3
+    2100028: Top
+    2100030: Circle
+    2100032: Claw2Texture1
+    2100034: NodesTexture1
+    2100036: Screws5Texture1
+    2100038: Arm1
+    2100040: Button2Texture1
+    2100042: ButtonTexture1
+    2100044: Claw1Texture1
+    2100046: Claw4Texture1
+    2100048: Screws2Texture1
+    2100050: Claw3Texture1
+    2100052: Screws1Texture1
+    2100054: Screws4Texture1
+    2100056: Screws3Texture1
+    2100058: TopTexture1
+    2100060: CircleTexture1
+    2100062: Claw2Texture
+    2100064: NodesTexture
+    2100066: Screws5Texture
+    2100068: Arm2Texture
+    2100070: ArmTexture
+    2100072: Button2Texture
+    2100074: ButtonTexture
+    2100076: Claw1Texture
+    2100078: Claw4Texture
+    2100080: Screws2Texture
+    2100082: Claw3Texture
+    2100084: Screws1Texture
+    2100086: Screws4Texture
+    2100088: Screws3Texture
+    2100090: TopTexture
+    2100092: CircleTexture
+    2300000: //RootNode
+    2300002: rightClaw_pSphere42_pSphere42
+    2300004: armBase
+    2300006: leftClawBack
+    2300008: leftClawFront
+    2300010: rightClawBack
+    2300012: rightClawFront
+    2300014: rotateClaw
+    3300000: //RootNode
+    3300002: rightClaw_pSphere42_pSphere42
+    3300004: armBase
+    3300006: leftClawBack
+    3300008: leftClawFront
+    3300010: rightClawBack
+    3300012: rightClawFront
+    3300014: rotateClaw
+    4300000: rightClaw_pSphere42_pSphere43
+    4300002: rightClaw_pSphere42_pSphere42
+    4300004: leftClawFront
+    4300006: rightClawFront
+    4300008: rightClawBack
+    4300010: leftClawBack
+    4300012: rotateClaw
+    4300014: armBase
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm2Texture
+    second: {fileID: 2100000, guid: 40f308c070c06be41b568a9129ef6014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmTexture
+    second: {fileID: 2100000, guid: bbb96c3b62b1a274aa5545cdf7398c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button2Texture
+    second: {fileID: 2100000, guid: b41dadf0519cde14e8a4732e4e9c5486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ButtonTexture
+    second: {fileID: 2100000, guid: fc809159cc3e35b4fb7261da152f4608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CircleTexture
+    second: {fileID: 2100000, guid: 44bbdf8c529d6fa4b82b10159e780869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Claw1Texture
+    second: {fileID: 2100000, guid: d0b97c48cf37aa34fbd478d0b5b2e865, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Claw2Texture
+    second: {fileID: 2100000, guid: 67d8c71a1f8361149b3a7f32b8f8d9cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Claw3Texture
+    second: {fileID: 2100000, guid: a7d2453b704042d418d204cb141e5743, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Claw4Texture
+    second: {fileID: 2100000, guid: 4f3c512cce7992745807fa1e2929ab71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NodesTexture
+    second: {fileID: 2100000, guid: 305581532fa9bc441baca3c2af0b3bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws1Texture
+    second: {fileID: 2100000, guid: 9c1bdfa364475ec409b3abac0988109f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws2Texture
+    second: {fileID: 2100000, guid: 73e86041b87110149b7b37057548cc79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws3Texture
+    second: {fileID: 2100000, guid: 83fdf352dc7815748938f7b3dec44c6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws4Texture
+    second: {fileID: 2100000, guid: 4090ff29130130941b4d672f7c1975ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws5Texture
+    second: {fileID: 2100000, guid: 9b866af8659b9e344894fef3dad5cd2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TopTexture
+    second: {fileID: 2100000, guid: 6cc8bc0034760bd41b4f149159b89632, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

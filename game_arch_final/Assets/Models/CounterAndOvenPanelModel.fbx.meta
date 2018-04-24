@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: ebb646e520caadc4eb78300fbf3b28e7
+timeCreated: 1520387199
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: FreezerButtonPanel_Model:Open_CloseButton
+    100004: OvenKnob_model:OvenKnobStaticBit
+    100006: OvenKnob_model:OvenKnobTurnyBit
+    100008: pCube7
+    100010: pCylinder11
+    100012: pCylinder12
+    100014: pCylinder15
+    100016: polySurface10
+    100018: transform1
+    100020: transform2
+    100022: transform3
+    400000: //RootNode
+    400002: FreezerButtonPanel_Model:Open_CloseButton
+    400004: OvenKnob_model:OvenKnobStaticBit
+    400006: OvenKnob_model:OvenKnobTurnyBit
+    400008: pCube7
+    400010: pCylinder11
+    400012: pCylinder12
+    400014: pCylinder15
+    400016: polySurface10
+    400018: transform1
+    400020: transform2
+    400022: transform3
+    2100000: CounterMainMaterial
+    2100002: CountertopMaterial
+    2100004: InsideOvenMaterial
+    2100006: DrawerHandleMaterial
+    2100008: FreezerButtonPanel_Model_OpenCloseTexture
+    2100010: OvenButtonPanelMainTexture
+    2100012: OvenDisplayTexture
+    2100014: OvenButtonPanelScrewsTexture
+    2100016: OvenKnob_model_OvenKnob2_texture
+    2100018: OvenKnob_model_OvenKnob1_texture
+    2300000: FreezerButtonPanel_Model:Open_CloseButton
+    2300002: OvenKnob_model:OvenKnobStaticBit
+    2300004: OvenKnob_model:OvenKnobTurnyBit
+    2300006: pCylinder15
+    2300008: polySurface10
+    3300000: FreezerButtonPanel_Model:Open_CloseButton
+    3300002: OvenKnob_model:OvenKnobStaticBit
+    3300004: OvenKnob_model:OvenKnobTurnyBit
+    3300006: pCylinder15
+    3300008: polySurface10
+    4300000: polySurface10
+    4300002: FreezerButtonPanel_Model:Open_CloseButton
+    4300004: pCylinder15
+    4300006: OvenKnob_model:OvenKnobStaticBit
+    4300008: OvenKnob_model:OvenKnobTurnyBit
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CountertopTexture_baseColor
+    second: {fileID: 2800000, guid: 359625a52782bf043965554df71dda29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DrawerHandleTexture_baseColor
+    second: {fileID: 2800000, guid: 4c156368270de8943a5d34736254832d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MainCounterTexture_baseColor
+    second: {fileID: 2800000, guid: 61a7a94613f8d984793a2f0b8d8a5ebc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OpenClose_baseColor
+    second: {fileID: 2800000, guid: fe34ada8cbccd0846b89a31e23be842d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OvenKnobTexture1_baseColor
+    second: {fileID: 2800000, guid: 98ba6505137d2f742849bf22ae5511d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OvenKnobTexture2_baseColor
+    second: {fileID: 2800000, guid: c65c89ecfb4e89442a6cc0c3026969f9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OvenPanelMain_baseColor
+    second: {fileID: 2800000, guid: f21baf490c23c0446980f3df7aac4ded, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: OvenPanelScrews_baseColor
+    second: {fileID: 2800000, guid: 4bebb77786cc73b48b1d2c44b38282ed, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

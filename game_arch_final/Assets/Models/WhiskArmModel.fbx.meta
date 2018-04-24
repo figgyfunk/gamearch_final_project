@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: b7e3c09fb21f6db45b3a2d7edacd9d45
+timeCreated: 1519936179
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: armBase32
+    100002: bottom1
+    100004: leftClawBack
+    100006: leftClawFront
+    100008: polySurface2
+    100010: polySurface3
+    100012: polySurface33
+    100014: polySurface35
+    100016: polySurface52
+    100018: rightClawBack
+    100020: rightClawFront
+    100022: rotateClaw
+    100024: whiskArm1
+    100026: whiskArm2
+    100028: whiskArm3
+    100030: whiskArm4
+    100032: //RootNode
+    400000: armBase32
+    400002: bottom1
+    400004: leftClawBack
+    400006: leftClawFront
+    400008: polySurface2
+    400010: polySurface3
+    400012: polySurface33
+    400014: polySurface35
+    400016: polySurface52
+    400018: rightClawBack
+    400020: rightClawFront
+    400022: rotateClaw
+    400024: whiskArm1
+    400026: whiskArm2
+    400028: whiskArm3
+    400030: whiskArm4
+    400032: //RootNode
+    2000000: bottom1
+    2100000: Screws2Texture
+    2100002: Claw1Texture
+    2100004: Screws1Texture
+    2100006: Claw2Texture
+    2100008: Claw3Texture
+    2100010: Claw4Texture
+    2100012: Screws4Texture
+    2100014: CircleTexture
+    2100016: Screws3Texture
+    2100018: TopTexture
+    2100020: Arm2Texture
+    2100022: ArmTexture
+    2100024: NodesTexture
+    2100026: Button2Texture
+    2100028: Screws5Texture
+    2100030: ButtonTexture
+    2100032: WhiskArmTexture
+    2100034: WhiskArmTexture4
+    2100036: WhiskArmTexture3
+    2100038: WhiskArmTexture2
+    2100040: WhiskBracketTexture
+    2100042: WhiskHandleTexture
+    2100044: WhiskScrewTexture
+    2100046: WhiskyBitsTexture
+    2300000: leftClawBack
+    2300002: leftClawFront
+    2300004: polySurface2
+    2300006: polySurface3
+    2300008: polySurface52
+    2300010: rightClawBack
+    2300012: rightClawFront
+    2300014: rotateClaw
+    2300016: whiskArm1
+    2300018: whiskArm3
+    2300020: whiskArm4
+    3300000: leftClawBack
+    3300002: leftClawFront
+    3300004: polySurface2
+    3300006: polySurface3
+    3300008: polySurface52
+    3300010: rightClawBack
+    3300012: rightClawFront
+    3300014: rotateClaw
+    3300016: whiskArm1
+    3300018: whiskArm3
+    3300020: whiskArm4
+    4300000: leftClawFront
+    4300002: rightClawFront
+    4300004: rightClawBack
+    4300006: leftClawBack
+    4300008: rotateClaw
+    4300010: polySurface2
+    4300012: polySurface3
+    4300014: whiskArm4
+    4300016: polySurface52
+    4300018: whiskArm3
+    4300020: whiskArm1
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BracketTexture_baseColor
+    second: {fileID: 2800000, guid: c0934e96672d7a243b73fc7369955e38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhiskArmTexture1_baseColor
+    second: {fileID: 2800000, guid: 22d40e1e6f45f654c972abe513620149, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhiskArmTexture2_baseColor
+    second: {fileID: 2800000, guid: b148d62c66bb589429011f4e87dd4452, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhiskArmTexture3_baseColor
+    second: {fileID: 2800000, guid: ddd3bd0bd853b48479e2752b0793be06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhiskArmTexture4_baseColor
+    second: {fileID: 2800000, guid: 091c96fe0b8a78f4ab8a284fab6a8b08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhiskHandleTexture_baseColor
+    second: {fileID: 2800000, guid: e507b647e18039249b42e5f51385a171, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhiskScrewsTexture_baseColor
+    second: {fileID: 2800000, guid: 4a1e265f82fbabc4c97334ca1f4b8c09, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: WhiskyBitsTexture_baseColor
+    second: {fileID: 2800000, guid: 9f693fb9f5b4d3047a50660f83e180a8, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 017133d87d9744b4c87f5b7d79d69126
+timeCreated: 1521237564
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: armBase32
+    100002: //RootNode
+    100004: pCube4
+    100006: pCylinder2
+    100008: pCylinder5
+    100010: polySurface3
+    100012: pSphere5
+    400000: armBase32
+    400002: //RootNode
+    400004: pCube4
+    400006: pCylinder2
+    400008: pCylinder5
+    400010: polySurface3
+    400012: pSphere5
+    2100000: Screws5Texture
+    2100002: KnifeArmBase2Texture
+    2100004: KnifeArmScrewTexture
+    2100006: KnifeArmBlockTexture
+    2100008: KnifeArmKnifeTexture
+    2100010: KnifeArmBarsTexture
+    2100012: KnifeArmHingeyTexture
+    2100014: KnifeArmBase1Texture
+    2100016: Arm2Texture
+    2100018: ArmTexture
+    2100020: NodesTexture
+    2100022: Button2Texture
+    2100024: ButtonTexture
+    2300000: pCube4
+    2300002: pCylinder2
+    2300004: pCylinder5
+    2300006: polySurface3
+    2300008: pSphere5
+    3300000: pCube4
+    3300002: pCylinder2
+    3300004: pCylinder5
+    3300006: polySurface3
+    3300008: pSphere5
+    4300000: polySurface3
+    4300002: pCylinder2
+    4300004: pSphere5
+    4300006: pCylinder5
+    4300008: pCube4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Arm2Texture
+    second: {fileID: 2100000, guid: 40f308c070c06be41b568a9129ef6014, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArmTexture
+    second: {fileID: 2100000, guid: bbb96c3b62b1a274aa5545cdf7398c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Button2Texture
+    second: {fileID: 2100000, guid: b41dadf0519cde14e8a4732e4e9c5486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ButtonTexture
+    second: {fileID: 2100000, guid: fc809159cc3e35b4fb7261da152f4608, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NodesTexture
+    second: {fileID: 2100000, guid: 305581532fa9bc441baca3c2af0b3bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screws5Texture
+    second: {fileID: 2100000, guid: 9b866af8659b9e344894fef3dad5cd2f, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KnifeArmBarTextures_baseColor
+    second: {fileID: 2800000, guid: 56c0e820e003b0445b00b570575bd1ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KnifeArmBaseTextures_1_baseColor
+    second: {fileID: 2800000, guid: 89572d223706cce49be1e27c7eebd02b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KnifeArmBaseTextures_2_baseColor
+    second: {fileID: 2800000, guid: 4b796f02b4ad0294ab1eee1276607c16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KnifeArmBlockTextures_baseColor
+    second: {fileID: 2800000, guid: deee9d6e23145c54f9a1742cff475f44, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KnifeArmHingeyTextures_baseColor
+    second: {fileID: 2800000, guid: fcd9dc61a7b8903438341633a87d5ba0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KnifeArmKnifeTextures_baseColor
+    second: {fileID: 2800000, guid: 3d018c37a0b75054282149c5f676013a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: KnifeArmScrewsTextures_baseColor
+    second: {fileID: 2800000, guid: a8cf6b2a9d508024ab5c34b8e813bbfc, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
